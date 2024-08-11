@@ -1,0 +1,17 @@
+ .fixed-top {
+
+     font-family: Arial, sans-serif;
+     background: linear-gradient(to right, #f9f9f9, #29992d, #92fb96, #f2fa55);
+     color: #333;
+     line-height: 1.6;
+ }
+
+ .homepage {
+     background: linear-gradient(to right, #e881f3, #5cf8eb);
+
+ }
+
+
+ .dropdown-menu {
+     background-color: rgb(255, 247, 0);
+ }
